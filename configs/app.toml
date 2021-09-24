@@ -1,0 +1,5 @@
+bind_addr = ":8080"
+log_level = "debug"
+
+[store]
+database_url = "host=db username=postgres dbname=restapi_dev password=qwerty"
